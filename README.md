@@ -1,8 +1,8 @@
 <a href="https://www.surya-singh.com">
-  <img src="https://raw.githubusercontent.com/Surya5599/Surya5599.github.io/master/public/og.png" alt="Surya Singh — Personal Analytics. Click to open the live dashboard." />
+  <img src="https://raw.githubusercontent.com/Surya5599/Surya5599.github.io/master/public/og.png" alt="Surya Singh — data engineer in Los Angeles. Click to open the live dashboard." />
 </a>
 
-### 👋 I'm Surya — a data engineer who builds AI agents that run production pipelines.
+### 👋 I'm Surya Singh — a data engineer who builds AI agents that run production pipelines.
 
 **→ [Open my live dashboard](https://www.surya-singh.com)** — my career as an interactive analytics site: real GitHub data, filterable charts, a 30-second guided tour, and **five projects you can actually run in the browser** (including my C++ shell and an embedded-systems breadboard).
 
